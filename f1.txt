@@ -1,0 +1,3 @@
+git is a distributed version control system means you can clone the whole repository onto your local machine and 
+you can work in there.
+This is for the demo purpose.
